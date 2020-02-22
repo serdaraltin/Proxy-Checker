@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\obj\x86\Debug\proxy_dogrulayici.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\obj\x86\Debug\proxy_dogrulayici.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\obj\x86\Debug\proxy dogrulayici.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\bin\Debug\proxy dogrulayici.exe
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\bin\Debug\proxy dogrulayici.pdb
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\bin\Debug\proxy dogrulayici.xml
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\obj\x86\Debug\proxy dogrulayici.exe
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\obj\x86\Debug\proxy dogrulayici.xml
+D:\Documents\Visual Studio 2010\Projects\proxy dogrulayici\proxy dogrulayici\obj\x86\Debug\proxy dogrulayici.pdb
